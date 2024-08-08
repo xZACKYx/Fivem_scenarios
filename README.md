@@ -1,7 +1,7 @@
 # Lista completa de Scenario para Fivem
 
 *Versión del juego: 1.68 (1.006.002) 20 de febrero de 2024
-*Información: Si estás utilizando FiveM asegúrate de que el servidor esté ejecutando la última versión de GameBuild (3095)](https://docs.fivem.net/docs/server-manual/server-commands/#sv_enforcegamebuild-build)
+*Información: Si estás utilizando FiveM asegúrate de que el servidor esté ejecutando la última versión de GameBuild (3095) [aquí](https://docs.fivem.net/docs/server-manual/server-commands/#sv_enforcegamebuild-build)
 
 Scenario | Entity
 --- | ---
